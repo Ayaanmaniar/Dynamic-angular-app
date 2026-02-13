@@ -1,3 +1,13 @@
+<img width="2048" height="5784" alt="localhost_4200_(Nest Hub)" src="https://github.com/user-attachments/assets/5304231a-eda2-4f85-a2b5-ff9afca0cf75" />
+<br>
+<img width="2048" height="5048" alt="localhost_4200__(Nest Hub)" src="https://github.com/user-attachments/assets/92f3d09e-e09b-4c40-9773-bb4166de5711" />
+<br>
+<img width="2048" height="2292" alt="localhost_4200__(Nest Hub) (1)" src="https://github.com/user-attachments/assets/b6863a84-0bb9-411e-ae20-f92d1f4f98b7" />
+<br>
+<img width="2048" height="2292" alt="localhost_4200_register(Nest Hub)" src="https://github.com/user-attachments/assets/09ac3dc4-beca-4e8f-9164-1fd327af835f" />
+<br>
+<img width="2048" height="2026" alt="localhost_4200_register(Nest Hub) (1)" src="https://github.com/user-attachments/assets/c7b6edad-1795-49fa-a390-ffc3d7b33358" />
+
 # MyApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.4.
